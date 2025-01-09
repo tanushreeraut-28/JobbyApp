@@ -1,0 +1,27 @@
+.main-cont{
+   height: 100vmin;
+   width: 100vw;
+   background: linear-gradient(90deg, rgb(30, 18, 133), rgb(14, 9, 59), rgb(16, 16, 75));
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+}
+.login-cont{
+  padding-left : 60px;
+  width: 50%;
+  height: 80vh;
+  justify-items: center;
+  align-content: center;
+  /* background-color: antiquewhite; */
+}
+.border-primary{
+   background-image: url('C:\Users\VICTUS\Desktop\F29\JobbyApp\Add White Background to a Photo Online - Pincel.jpeg');
+   background-size: cover;
+}
+.login-img{
+   background-image: url('C:\Users\VICTUS\Desktop\F29\JobbyApp\login img.jpeg');
+   background-size: cover;
+   height: 70vh;
+   width: 50%;
+}

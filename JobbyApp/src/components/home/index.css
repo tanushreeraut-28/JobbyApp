@@ -1,0 +1,23 @@
+
+ .home-cont{
+    width: 100vw;
+    height: 100vh;
+   background-image: url(C:\Users\VICTUS\Desktop\F29\JobbyApp\backgroung-img.jpeg);
+   background-size: cover;
+ }
+
+  .home-content-cont{
+    width: 35%;
+    height: 40%;
+    margin-top: 80px;
+    margin-left: 30px;
+    color: black;
+  }
+  .home-heading{
+    font-size: 43px;
+    margin-bottom: 20px;
+  }
+  .home-btn{
+    margin-top: 10px;
+  }
+

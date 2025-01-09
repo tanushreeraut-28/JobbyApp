@@ -1,0 +1,48 @@
+
+ 
+  .my-nav {
+    height: 10%;
+    background-color: rgb(21, 21, 105); 
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .job-logo{
+   width: 120px;
+   height: 65px;
+   background-image: url("C:\Users\VICTUS\Desktop\F29\JobbyApp\job6.jpeg");
+   background-size: cover;
+  }
+  
+  .nav-ul-cont {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .my-nav-items{
+    margin-right: 15px;
+    color: white;
+    font-size: 20px;
+  }
+  
+  .nav-links a:hover {
+    text-decoration:underline;
+  }
+  
+  .logout-button {
+    display: flex;
+    justify-content: start;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .logout-button:hover {
+    background-color: #6a57e2;
+    color: white;
+  }
